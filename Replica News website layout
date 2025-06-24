@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>বাংলা নিউজ প্রেপার</title>
+    <link rel="shortcut icon" href="img/prothoomalo.jpg" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+    <!--Header area-->
+    <header id="header_area">
+      <a href=""><img src="img/prothoomalo2.jpg" alt=""></a>
+    </header>
+
+          <!--main menu-->
+          <nav id="main_menu">
+            <ul>
+              <li><a href="">সর্বশেষ</a></li>
+              <li><a href="">বিশেষ সংবাদ</a></li>
+              <li><a href="">রাজনীতি</a></li>
+              <li><a href="">বাংলাদেশ</a></li>
+              <li><a href="">অপরাধ</a></li>
+              <li><a href="">বিশ্ব</a></li>
+              <li><a href="">বাণিজ্য</a></li>
+              <li><a href="">মতামত</a></li>
+              <li><a href="">খেলা</a></li>
+              <li><a href="">বিনোদন</a></li>
+              <li><a href="">চাকরি</a></li>
+              <li><a href="">জীবনযাপন</a></li>
+            </ul>
+          </nav>
+          <!--Content area-->
+          <section>
+            <div id="main_content">
+              <div class="child_content">
+              </div>
+            </div>
+            <aside id="main_sidebar">
+              <div class="chid_sidebar">
+              </div>
+            </aside>
+          </section>
+  </body>
+</html>
